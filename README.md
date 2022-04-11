@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a full stack software engineer. 🏗
+
+- 🔭 working at  [@iftechio](https://iftech.io)
+- 📫 How to reach me: siyuan.se7en@gmail.com
+- Telegram Channel: https://t.me/se7enw
+- More https://se7en.wang/ 
+
 <!--
 **0neSe7en/0neSe7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
