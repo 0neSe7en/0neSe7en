@@ -2,7 +2,6 @@
 
 I'm a full stack software engineer. 🏗
 
-- 🔭 working at  [@iftechio](https://iftech.io)
 - 📫 How to reach me: siyuan.se7en@gmail.com
 - Telegram Channel: https://t.me/se7enw
 - More https://se7en.wang/ 
